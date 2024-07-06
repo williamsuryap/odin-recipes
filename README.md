@@ -1,4 +1,4 @@
-Odin Recipe Project
+# Odin Recipe Project
 
 The project's aim is to create a simple recipe website using HTML.
 
